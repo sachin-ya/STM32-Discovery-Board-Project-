@@ -1,6 +1,0 @@
-../Src/main.c:47:6:GPIO_Init	1
-../Src/main.c:60:6:ADC1_Init	1
-../Src/main.c:75:10:ADC1_Read	2
-../Src/main.c:82:6:Display_Digit	2
-../Src/main.c:89:6:Update_DisplayBuffer	1
-../Src/main.c:97:5:main	1

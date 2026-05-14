@@ -1,8 +1,0 @@
-../Src/main.c:40:6:uart2_init	1
-../Src/main.c:53:6:uart_tx	2
-../Src/main.c:59:6:uart_rx	2
-../Src/main.c:65:6:uart_print	2
-../Src/main.c:72:6:i2c1_init	1
-../Src/main.c:89:6:eeprom_write	6
-../Src/main.c:110:6:eeprom_read	6
-../Src/main.c:138:5:main	5
