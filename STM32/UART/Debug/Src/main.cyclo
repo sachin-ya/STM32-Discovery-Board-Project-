@@ -1,0 +1,7 @@
+../Src/main.c:28:6:TIM2_Init	1
+../Src/main.c:39:6:delay_ms	2
+../Src/main.c:51:6:UART2_Init	1
+../Src/main.c:75:6:UART2_WriteChar	3
+../Src/main.c:90:6:UART2_WriteString	2
+../Src/main.c:97:6:UART2_ReadChar	2
+../Src/main.c:111:5:main	5
