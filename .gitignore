@@ -61,4 +61,5 @@ Debug/
 *.bin
 *.map
 *.d
-*.su
+*.sd
+*.launch
